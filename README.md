@@ -1,4 +1,4 @@
-This is my repository for the CS416 Dashboard Project.
+See this link for the finalized dashboard: https://public.tableau.com/app/profile/trey.schulman/viz/DashboardProject-TreySchulman/Dashboard2
 
 education_states.csv, race_states.csv, urban_states.csv, votes_states.csv are the cleaned data files loaded into Tableau.
 
